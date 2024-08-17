@@ -1,0 +1,30 @@
+{
+    "coord": {"lon": -122.4064, "lat": 37.7858},
+    "weather": [{"id": 801, "main": "Clouds", "description": "few clouds", "icon": "02n"}],
+    "base": "stations",
+    "main": {
+        "temp": 58.05,
+        "feels_like": 57.63,
+        "temp_min": 56.1,
+        "temp_max": 61.43,
+        "pressure": 1017,
+        "humidity": 87,
+        "sea_level": 1017,
+        "grnd_level": 1013
+    },
+    "visibility": 10000,
+    "wind": {"speed": 13.8, "deg": 300, "gust": 23.02},
+    "clouds": {"all": 20},
+    "dt": 1723700295,
+    "sys": {
+        "type": 2,
+        "id": 2007646,
+        "country": "US",
+        "sunrise": 1723641893,
+        "sunset": 1723691023
+    },
+    "timezone": -25200,
+    "id": 5391959,
+    "name": "Austin",
+    "cod": 200
+}
